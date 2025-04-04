@@ -64,9 +64,8 @@ Observe any changes or effects caused by the hook.
 
 ## 🔁 Optional: Write a Continuous Injector
 
-To avoid repeated manual injection:
-- Write a simple program that monitors `iexplore.exe` instances.
-- Injects the DLL into new instances automatically.
+
+-Write an injector that continiously Injects the DLL into new instances automatically.
 
 ---
 
