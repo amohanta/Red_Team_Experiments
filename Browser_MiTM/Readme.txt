@@ -70,12 +70,3 @@ To avoid repeated manual injection:
 
 ---
 
-## 🖼️ Adding Images to README
-
-To include images in this README from an `images/` folder:
-
-1. Place images in the `images/` directory.
-2. Reference them in Markdown like so:
-
-```markdown
-![Hooked Output](images/hooked_output.png)
