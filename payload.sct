@@ -1,0 +1,14 @@
+<?XML version="1.0"?>
+<scriptlet>
+  <registration
+    progid="Example.Scriptlet"
+    classid="{AAAA1111-BBBB-2222-CCCC-3333DDDD4444}"
+  />
+  <script language="JScript">
+    <![CDATA[
+      function ScriptletEntry() {
+        WScript.Echo("Hello from the scriptlet!");
+      }
+    ]]>
+  </script>
+</scriptlet>
